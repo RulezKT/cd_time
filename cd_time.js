@@ -1,4 +1,4 @@
-const { JD2000, SEC_IN_1_DAY } = require("constants");
+const { JD2000, SEC_IN_1_DAY } = require("cd_consts");
 
 /*****************************************************************************
  long long int gregdate_to_sec_from_j2000(int year, int month, int day,
